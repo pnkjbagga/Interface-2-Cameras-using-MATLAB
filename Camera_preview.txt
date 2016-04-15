@@ -1,0 +1,2 @@
+obj = videoinput('winvideo', 1);
+preview(obj);
